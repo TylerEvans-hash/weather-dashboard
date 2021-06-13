@@ -1,0 +1,7 @@
+header {
+    padding: 20px 35px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 50%;
+}
